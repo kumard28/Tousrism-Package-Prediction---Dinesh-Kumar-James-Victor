@@ -1,4 +1,3 @@
-%%writefile tourism_project/model_building/prep.py
 # ── prep.py: Data Preparation Script for GitHub Actions Pipeline ──────────────
 import pandas as pd
 import os
